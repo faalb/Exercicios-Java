@@ -1,3 +1,12 @@
+/**
+* Desafio: [War of Numbers]
+* 
+* Enunciado (Link Original): 
+* [https://edabit.com/challenge/7fHsizQrTLXsPWMyH]
+*
+* @version 1.0
+*/
+
 public class Challenge {
   
 	public static int warOfNumbers(int [] numbers) {
